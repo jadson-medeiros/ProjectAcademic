@@ -1,0 +1,18 @@
+<list>
+  <model.Professor>
+    <nome>Alan Galante</nome>
+    <endereco>Rua Teste</endereco>
+    <telefones>
+      <model.Telefone>
+        <ddd>22</ddd>
+        <numero>23421-3452</numero>
+      </model.Telefone>
+    </telefones>
+    <formacao>Doutorado</formacao>
+    <usuario>
+      <login>prof</login>
+      <senha>prof</senha>
+      <tipo>Professor</tipo>
+    </usuario>
+  </model.Professor>
+</list>

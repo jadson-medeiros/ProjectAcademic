@@ -1,0 +1,20 @@
+<list>
+  <model.Aluno>
+    <nome>Jadson Medeiros</nome>
+    <endereco>Rua Teste</endereco>
+    <telefones>
+      <model.Telefone>
+        <ddd>22</ddd>
+        <numero>98547-8512</numero>
+      </model.Telefone>
+    </telefones>
+    <id>1</id>
+    <matricula>2019122</matricula>
+    <dataIngresso>2019-12-11</dataIngresso>
+    <usuario>
+      <login>aluno</login>
+      <senha>aluno</senha>
+      <tipo>Aluno</tipo>
+    </usuario>
+  </model.Aluno>
+</list>

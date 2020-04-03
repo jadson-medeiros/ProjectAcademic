@@ -1,0 +1,27 @@
+<list>
+  <model.Usuario>
+    <login>admin</login>
+    <senha>admin</senha>
+    <tipo>Diretor</tipo>
+  </model.Usuario>
+  <model.Usuario>
+    <login>prof</login>
+    <senha>prof</senha>
+    <tipo>Professor</tipo>
+  </model.Usuario>
+  <model.Usuario>
+    <login>coord</login>
+    <senha>coord</senha>
+    <tipo>Coordenador</tipo>
+  </model.Usuario>
+  <model.Usuario>
+    <login>aluno</login>
+    <senha>aluno</senha>
+    <tipo>Aluno</tipo>
+  </model.Usuario>
+  <model.Usuario>
+    <login>sec</login>
+    <senha>sec</senha>
+    <tipo>Secretaria</tipo>
+  </model.Usuario>
+</list>

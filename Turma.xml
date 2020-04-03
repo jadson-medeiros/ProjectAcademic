@@ -1,0 +1,77 @@
+<list>
+  <model.Turma>
+    <numero>1</numero>
+    <finalizado>true</finalizado>
+    <curso>
+      <nome>Sistemas de Informação</nome>
+    </curso>
+    <professor>
+      <nome>Alan Galante</nome>
+      <endereco>Rua Teste</endereco>
+      <telefones>
+        <model.Telefone>
+          <ddd>22</ddd>
+          <numero>23421-3452</numero>
+        </model.Telefone>
+      </telefones>
+      <formacao>Doutorado</formacao>
+      <usuario>
+        <login>prof</login>
+        <senha>prof</senha>
+        <tipo>Professor</tipo>
+      </usuario>
+    </professor>
+    <disciplina>
+      <qtdAulas>10</qtdAulas>
+      <nome>Prog III</nome>
+    </disciplina>
+    <diarios>
+      <model.Diario>
+        <nota>0.0</nota>
+        <falta>0</falta>
+        <resultado>Cursando</resultado>
+        <aluno>
+          <nome>Jadson Medeiros</nome>
+          <endereco>Rua Teste</endereco>
+          <telefones>
+            <model.Telefone>
+              <ddd>22</ddd>
+              <numero>98547-8512</numero>
+            </model.Telefone>
+          </telefones>
+          <id>1</id>
+          <matricula>2019122</matricula>
+          <dataIngresso>2019-12-11</dataIngresso>
+          <usuario>
+            <login>aluno</login>
+            <senha>aluno</senha>
+            <tipo>Aluno</tipo>
+          </usuario>
+        </aluno>
+      </model.Diario>
+      <model.Diario>
+        <nota>0.0</nota>
+        <falta>0</falta>
+        <resultado>Cursando</resultado>
+        <aluno>
+          <nome>Jadson Medeiros</nome>
+          <endereco>Rua Teste</endereco>
+          <telefones>
+            <model.Telefone>
+              <ddd>22</ddd>
+              <numero>98547-8512</numero>
+            </model.Telefone>
+          </telefones>
+          <id>1</id>
+          <matricula>2019122</matricula>
+          <dataIngresso>2019-12-11</dataIngresso>
+          <usuario>
+            <login>aluno</login>
+            <senha>aluno</senha>
+            <tipo>Aluno</tipo>
+          </usuario>
+        </aluno>
+      </model.Diario>
+    </diarios>
+  </model.Turma>
+</list>
